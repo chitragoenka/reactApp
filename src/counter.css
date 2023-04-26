@@ -1,0 +1,37 @@
+.section {
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+.increment {
+color: green;
+border: solid green;
+border-radius: 100px;
+padding: 5px;
+margin: 5px;
+font-size: larger;
+font-weight: 600;
+} 
+
+.decrement {
+    color: green;
+    border: solid green;
+    border-radius: 100px;
+    padding: 5px;
+    margin: 5px;
+    font-size: larger;
+    font-weight: 600;
+}
+
+.reset {
+    color: red;
+    border: solid red;
+    border-radius: 100px;
+    padding: 5px;
+    margin: 5px;
+    font-size: larger;
+    font-weight: 600;
+}
